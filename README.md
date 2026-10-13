@@ -111,11 +111,11 @@ Custom report-page tooltips that show extra detail on hover:
 
 | Home | Page 2 |
 |---|---|
-| ![Home](page1.png) | ![Page 2](pages2.png) |
+| ![Home](pages/page1.png) | ![Page 2](pages/page2.png) |
 
 | Page 3 | Tooltips |
 |---|---|
-| ![Page 3](page3.png) | ![Tooltips](tooltips.png) |
+| ![Page 3](pages/page3.png) | ![Tooltips](pages/tooltip.png) |
 
 > Add your screenshots to the `pages` folder and adjust the file names above.
 
