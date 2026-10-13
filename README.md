@@ -98,7 +98,7 @@ Custom report-page tooltips that show extra detail on hover:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/preetikasharma1223-cpu/BOAT-Dashboard.git
    ```
 2. Open the `.pbix` file in **Power BI Desktop**.
 3. If prompted, update the data source path (**Home → Transform data → Data source settings**).
@@ -111,7 +111,7 @@ Custom report-page tooltips that show extra detail on hover:
 
 | Home | Page 2 |
 |---|---|
-| ![Home](page1.png) | ![Page 2](page2.png) |
+| ![Home](page1.png) | ![Page 2](pages2.png) |
 
 | Page 3 | Tooltips |
 |---|---|
@@ -143,7 +143,7 @@ Custom report-page tooltips that show extra detail on hover:
 ## 👤 Author
 
 **Preetika Sharma**
-• [GitHub](https://github.com/your-username)
+• [GitHub](https://github.com/preetikasharma1223-cpu)
 
 ---
 
